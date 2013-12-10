@@ -1,0 +1,13 @@
+.author
+{
+    font-weight: 900;
+    text-align: center
+}
+
+#send
+{
+    border-radius: 5px;
+    border-color: rgb(224,224,224);
+    border-width: 1px;
+    background: -webkit-linear-gradient(top,  white,  lightgray);
+}
